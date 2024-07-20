@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+
+}
+.header{
+    background-color: blue;
+display: flex;
+justify-content: space-between;
+padding: 11px 50px;
+align-items: center;
+}
+.logo{
+width: 100px;
+}
+.link a{
+    text-decoration: none;
+    color: #00ff0d;
+    padding: 5px 10px;
+
+    border-radius: 150px;
+}
+.link a:hover{
+    color: rgb(255, 0, 0);
+}
+
+.link .btn:hover{
+    background-color: #f2858c;
+}
+.landing-page{
+    background-color: blue;
+display: flex;
+justify-content: space-between;
+padding: 11px 50px;
+align-items: center;
+color:white;
+}
+.SEARCH input{
+    border-radius: 50px;
+border: none;
+outline: none;
+height: 25px;
+padding:0 10px;
+}
+
+.btn{
+    color:#ffffff;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 150px;  
+    background-color: #5e0505;
+}
+.SEARCH button{
+    position: absolute;
+    left: 210px;
+    height: 25px;
+}
+.img{
+border-radius: 20px;
+}
+.landing-page-search input{
+border-radius: 50px;
+
+}
+.landing-page-left-section{
+width: 400px;
+}
+
+
+
+
+
+
